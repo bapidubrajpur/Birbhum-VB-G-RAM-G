@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <!-- Outer Navy Ring -->
+    <path
+        android:strokeColor="#0D47A1"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000"
+        android:pathData="M32,32 m-27,0 a27,27 0 1,1 54,0 a27,27 0 1,1 -54,0" />
+    <path
+        android:strokeColor="#0D47A1"
+        android:strokeWidth="1.2"
+        android:fillColor="#00000000"
+        android:pathData="M32,32 m-24,0 a24,24 0 1,1 48,0 a24,24 0 1,1 -48,0" />
+    <!-- Center Hub -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M32,32 m-5,0 a5,5 0 1,1 10,0 a5,5 0 1,1 -10,0" />
+    <!-- Spokes -->
+    <path
+        android:strokeColor="#0D47A1"
+        android:strokeWidth="1.2"
+        android:pathData="M32,8 L32,56 M8,32 L56,32 M15.03,15.03 L48.97,48.97 M15.03,48.97 L48.97,15.03 M21.64,10.61 L42.36,53.39 M10.61,21.64 L53.39,42.36 M10.61,42.36 L53.39,21.64 M21.64,53.39 L42.36,10.61 M27.83,8.74 L36.17,55.26 M8.74,27.83 L55.26,36.17 M8.74,36.17 L55.26,27.83 M27.83,55.26 L36.17,8.74" />
+</vector>

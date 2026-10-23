@@ -1,0 +1,6 @@
+{
+  "name": "Birbhum VB-G RAM G",
+  "description": "Birbhum District Administration VB-G RAM G Dashboard: State Allotment, Works Progress, Material FTO Verification, e-KYC & Target Monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

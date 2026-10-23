@@ -1,0 +1,2161 @@
+{
+  "district": "BIRBHUM",
+  "state": "West Bengal",
+  "schemeTitle": "Vashistha Bharat - Gramin Rozgar Abhiyan (Birbhum Analytics)",
+  "sheetUrl": "https://docs.google.com/spreadsheets/d/1Hs2CJaEV6GfdQsMEcjOSvLeH72UeYkgmf-yh_-EjXlI/edit",
+  "lastUpdated": "As on 17-10-2026 (Live Google Sheet Sync)",
+  "allotmentSummary": {
+    "totalBlocks": 19,
+    "totalGps": 167,
+    "totalAllotmentCr": 42.22,
+    "totalAllotmentLakh": 4222.0,
+    "distributableLakh": 3377.6,
+    "distributableCr": 33.78,
+    "districtRetentionLakh": 844.4,
+    "districtRetentionCr": 8.44,
+    "totalCountA": 63055,
+    "totalCountB": 63885,
+    "totalCount": 126940,
+    "highestAllotmentBlock": "SAINTHIA",
+    "lowestAllotmentBlock": "MURARAI-I"
+  },
+  "worksSummary": {
+    "totalWorks": 5584,
+    "estimatesStarted": 3764,
+    "technicalSanctions": 2426,
+    "adminSanctions": 2393,
+    "pending": 3158,
+    "avgTsRate": 43.4,
+    "avgAsRate": 42.9,
+    "topPerformingBlock": "LABPUR"
+  },
+  "ftoSummary": {
+    "totalFtos": 1551,
+    "totalAmountRs": 741288403,
+    "checkedFtos": 1520,
+    "acceptedAmountRs": 728955581,
+    "rejectedAmountRs": 12332822,
+    "verifiedAmountRs": 741288403,
+    "overallStatus": "100.0% Verified"
+  },
+  "ekycSummary": {
+    "totalWorkers": 1230522,
+    "aadhaarSeeded": 1227126,
+    "ekycDone": 1110591,
+    "overallEkycPct": 90.25,
+    "authenticated": 1204261,
+    "abpsEligible": 0,
+    "topEkycBlock": "RAJNAGAR"
+  },
+  "targetSummary": {
+    "totalAnnualTarget": 5060100,
+    "peakMonth": "December 2026",
+    "intensityDesc": "Sep 5%, Oct 15%, Nov 20%, Dec 20%, Jan 18%, Feb 14%, Mar 8%"
+  },
+  "blocks": [
+    {
+      "slNo": 1,
+      "blockName": "BOLPUR-SRINIKETAN",
+      "allotment": {
+        "countA": 3813,
+        "countB": 2312,
+        "totalCount": 6125,
+        "cat1Lakh": 80.02,
+        "cat2Lakh": 24.52,
+        "cat3Lakh": 33.69,
+        "totalLakh": 138.23,
+        "totalCr": 1.38
+      },
+      "works": {
+        "gps": 9,
+        "totalWorks": 349,
+        "estimatesStarted": 230,
+        "ts": 176,
+        "as": 175,
+        "pending": 173,
+        "tsPct": 50.4,
+        "asPct": 50.1
+      },
+      "fto": {
+        "ftosPending": 193,
+        "pendingAmountRs": 129542371,
+        "ftosChecked": 193,
+        "acceptedAmountRs": 129542371,
+        "rejectedAmountRs": 0,
+        "verifiedAmountRs": 129542371,
+        "status": "100.00%"
+      },
+      "ekyc": {
+        "totalWorkers": 74162,
+        "aadhaarSeeded": 74127,
+        "ekycDone": 68931,
+        "ekycPct": 92.99,
+        "authenticated": 73055,
+        "authFailed": 1072,
+        "abpsEligible": 0
+      },
+      "target": {
+        "gps": 9,
+        "sep2026": 13635,
+        "oct2026": 40905,
+        "nov2026": 54540,
+        "dec2026": 54540,
+        "jan2027": 49086,
+        "feb2027": 38178,
+        "mar2027": 21816,
+        "totalTarget": 272700
+      },
+      "pba": {
+        "slNo": 1,
+        "blockName": "BOLPUR-SRINIKETAN",
+        "totalBeneficiaries": 1540,
+        "tableTopDone": 1540,
+        "pendingTableTop": 0,
+        "verifiedOk": 1068,
+        "deletedJobcards": 15,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 15,
+        "notAvailableJobcards": 457,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 457,
+        "availableWorkCodes": 696,
+        "mustersGenerated": 157,
+        "emrIssueRegister": 156
+      }
+    },
+    {
+      "slNo": 2,
+      "blockName": "DUBRAJPUR",
+      "allotment": {
+        "countA": 5929,
+        "countB": 8499,
+        "totalCount": 14428,
+        "cat1Lakh": 195.12,
+        "cat2Lakh": 19.53,
+        "cat3Lakh": 169.68,
+        "totalLakh": 384.33,
+        "totalCr": 3.84
+      },
+      "works": {
+        "gps": 10,
+        "totalWorks": 284,
+        "estimatesStarted": 179,
+        "ts": 142,
+        "as": 140,
+        "pending": 142,
+        "tsPct": 50.0,
+        "asPct": 49.3
+      },
+      "fto": {
+        "ftosPending": 135,
+        "pendingAmountRs": 88288843,
+        "ftosChecked": 135,
+        "acceptedAmountRs": 81111557,
+        "rejectedAmountRs": 7177286,
+        "verifiedAmountRs": 88288843,
+        "status": "100.00%"
+      },
+      "ekyc": {
+        "totalWorkers": 76687,
+        "aadhaarSeeded": 76607,
+        "ekycDone": 72067,
+        "ekycPct": 94.07,
+        "authenticated": 75621,
+        "authFailed": 986,
+        "abpsEligible": 0
+      },
+      "target": {
+        "gps": 10,
+        "sep2026": 15150,
+        "oct2026": 45450,
+        "nov2026": 60600,
+        "dec2026": 60600,
+        "jan2027": 54540,
+        "feb2027": 42420,
+        "mar2027": 24240,
+        "totalTarget": 303000
+      },
+      "pba": {
+        "slNo": 2,
+        "blockName": "DUBRAJPUR",
+        "totalBeneficiaries": 3037,
+        "tableTopDone": 3037,
+        "pendingTableTop": 0,
+        "verifiedOk": 2047,
+        "deletedJobcards": 591,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 591,
+        "notAvailableJobcards": 399,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 399,
+        "availableWorkCodes": 1714,
+        "mustersGenerated": 0,
+        "emrIssueRegister": 0
+      }
+    },
+    {
+      "slNo": 3,
+      "blockName": "ILLAMBAZAR",
+      "allotment": {
+        "countA": 3967,
+        "countB": 2959,
+        "totalCount": 6926,
+        "cat1Lakh": 79.14,
+        "cat2Lakh": 15.27,
+        "cat3Lakh": 90.55,
+        "totalLakh": 184.96,
+        "totalCr": 1.85
+      },
+      "works": {
+        "gps": 9,
+        "totalWorks": 435,
+        "estimatesStarted": 308,
+        "ts": 193,
+        "as": 191,
+        "pending": 242,
+        "tsPct": 44.4,
+        "asPct": 43.9
+      },
+      "fto": {
+        "ftosPending": 82,
+        "pendingAmountRs": 50360591,
+        "ftosChecked": 82,
+        "acceptedAmountRs": 50204366,
+        "rejectedAmountRs": 156225,
+        "verifiedAmountRs": 50360591,
+        "status": "100.00%"
+      },
+      "ekyc": {
+        "totalWorkers": 70486,
+        "aadhaarSeeded": 70457,
+        "ekycDone": 64574,
+        "ekycPct": 91.65,
+        "authenticated": 69558,
+        "authFailed": 899,
+        "abpsEligible": 0
+      },
+      "target": {
+        "gps": 9,
+        "sep2026": 13635,
+        "oct2026": 40905,
+        "nov2026": 54540,
+        "dec2026": 54540,
+        "jan2027": 49086,
+        "feb2027": 38178,
+        "mar2027": 21816,
+        "totalTarget": 272700
+      },
+      "pba": {
+        "slNo": 3,
+        "blockName": "ILLAMBAZAR",
+        "totalBeneficiaries": 2820,
+        "tableTopDone": 2820,
+        "pendingTableTop": 0,
+        "verifiedOk": 2564,
+        "deletedJobcards": 202,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 202,
+        "notAvailableJobcards": 54,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 54,
+        "availableWorkCodes": 1979,
+        "mustersGenerated": 0,
+        "emrIssueRegister": 109
+      }
+    },
+    {
+      "slNo": 4,
+      "blockName": "KHOYRASOL",
+      "allotment": {
+        "countA": 6861,
+        "countB": 14669,
+        "totalCount": 21530,
+        "cat1Lakh": 276.34,
+        "cat2Lakh": 45.31,
+        "cat3Lakh": 235.4,
+        "totalLakh": 557.05,
+        "totalCr": 5.57
+      },
+      "works": {
+        "gps": 10,
+        "totalWorks": 429,
+        "estimatesStarted": 322,
+        "ts": 167,
+        "as": 165,
+        "pending": 262,
+        "tsPct": 38.9,
+        "asPct": 38.5
+      },
+      "fto": {
+        "ftosPending": 29,
+        "pendingAmountRs": 18741922,
+        "ftosChecked": 29,
+        "acceptedAmountRs": 18082866,
+        "rejectedAmountRs": 659056,
+        "verifiedAmountRs": 18741922,
+        "status": "100.00%"
+      },
+      "ekyc": {
+        "totalWorkers": 68337,
+        "aadhaarSeeded": 68248,
+        "ekycDone": 63146,
+        "ekycPct": 92.52,
+        "authenticated": 67506,
+        "authFailed": 742,
+        "abpsEligible": 0
+      },
+      "target": {
+        "gps": 10,
+        "sep2026": 15150,
+        "oct2026": 45450,
+        "nov2026": 60600,
+        "dec2026": 60600,
+        "jan2027": 54540,
+        "feb2027": 42420,
+        "mar2027": 24240,
+        "totalTarget": 303000
+      },
+      "pba": {
+        "slNo": 4,
+        "blockName": "KHOYRASOL",
+        "totalBeneficiaries": 1696,
+        "tableTopDone": 1696,
+        "pendingTableTop": 0,
+        "verifiedOk": 1159,
+        "deletedJobcards": 272,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 272,
+        "notAvailableJobcards": 265,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 265,
+        "availableWorkCodes": 1119,
+        "mustersGenerated": 351,
+        "emrIssueRegister": 351
+      }
+    },
+    {
+      "slNo": 5,
+      "blockName": "LABPUR",
+      "allotment": {
+        "countA": 1669,
+        "countB": 3894,
+        "totalCount": 5563,
+        "cat1Lakh": 66.46,
+        "cat2Lakh": 3.9,
+        "cat3Lakh": 90.01,
+        "totalLakh": 160.37,
+        "totalCr": 1.6
+      },
+      "works": {
+        "gps": 11,
+        "totalWorks": 231,
+        "estimatesStarted": 176,
+        "ts": 138,
+        "as": 133,
+        "pending": 93,
+        "tsPct": 59.7,
+        "asPct": 57.6
+      },
+      "fto": {
+        "ftosPending": 91,
+        "pendingAmountRs": 37919172,
+        "ftosChecked": 75,
+        "acceptedAmountRs": 37252002,
+        "rejectedAmountRs": 667170,
+        "verifiedAmountRs": 37919172,
+        "status": "100.00%"
+      },
+      "ekyc": {
+        "totalWorkers": 83012,
+        "aadhaarSeeded": 82970,
+        "ekycDone": 73944,
+        "ekycPct": 89.12,
+        "authenticated": 80662,
+        "authFailed": 2308,
+        "abpsEligible": 0
+      },
+      "target": {
+        "gps": 11,
+        "sep2026": 16665,
+        "oct2026": 49995,
+        "nov2026": 66660,
+        "dec2026": 66660,
+        "jan2027": 59994,
+        "feb2027": 46662,
+        "mar2027": 26664,
+        "totalTarget": 333300
+      },
+      "pba": {
+        "slNo": 5,
+        "blockName": "LABPUR",
+        "totalBeneficiaries": 2807,
+        "tableTopDone": 2807,
+        "pendingTableTop": 0,
+        "verifiedOk": 2704,
+        "deletedJobcards": 103,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 103,
+        "notAvailableJobcards": 0,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 0,
+        "availableWorkCodes": 1659,
+        "mustersGenerated": 0,
+        "emrIssueRegister": 0
+      }
+    },
+    {
+      "slNo": 6,
+      "blockName": "MAYURESWAR-I",
+      "allotment": {
+        "countA": 3395,
+        "countB": 1938,
+        "totalCount": 5333,
+        "cat1Lakh": 49.54,
+        "cat2Lakh": 10.51,
+        "cat3Lakh": 92.47,
+        "totalLakh": 152.52,
+        "totalCr": 1.53
+      },
+      "works": {
+        "gps": 9,
+        "totalWorks": 347,
+        "estimatesStarted": 162,
+        "ts": 103,
+        "as": 99,
+        "pending": 244,
+        "tsPct": 29.7,
+        "asPct": 28.5
+      },
+      "fto": {
+        "ftosPending": 79,
+        "pendingAmountRs": 48931764,
+        "ftosChecked": 79,
+        "acceptedAmountRs": 48931764,
+        "rejectedAmountRs": 0,
+        "verifiedAmountRs": 48931764,
+        "status": "100.00%"
+      },
+      "ekyc": {
+        "totalWorkers": 64969,
+        "aadhaarSeeded": 64825,
+        "ekycDone": 57384,
+        "ekycPct": 88.52,
+        "authenticated": 63113,
+        "authFailed": 1712,
+        "abpsEligible": 0
+      },
+      "target": {
+        "gps": 9,
+        "sep2026": 13635,
+        "oct2026": 40905,
+        "nov2026": 54540,
+        "dec2026": 54540,
+        "jan2027": 49086,
+        "feb2027": 38178,
+        "mar2027": 21816,
+        "totalTarget": 272700
+      },
+      "pba": {
+        "slNo": 6,
+        "blockName": "MAYURESWAR-I",
+        "totalBeneficiaries": 3491,
+        "tableTopDone": 3491,
+        "pendingTableTop": 0,
+        "verifiedOk": 2446,
+        "deletedJobcards": 512,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 512,
+        "notAvailableJobcards": 533,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 533,
+        "availableWorkCodes": 2223,
+        "mustersGenerated": 148,
+        "emrIssueRegister": 562
+      }
+    },
+    {
+      "slNo": 7,
+      "blockName": "MAYURESWAR-II",
+      "allotment": {
+        "countA": 3703,
+        "countB": 2111,
+        "totalCount": 5814,
+        "cat1Lakh": 60.2,
+        "cat2Lakh": 16.93,
+        "cat3Lakh": 75.68,
+        "totalLakh": 152.81,
+        "totalCr": 1.53
+      },
+      "works": {
+        "gps": 7,
+        "totalWorks": 262,
+        "estimatesStarted": 147,
+        "ts": 87,
+        "as": 85,
+        "pending": 175,
+        "tsPct": 33.2,
+        "asPct": 32.4
+      },
+      "fto": {
+        "ftosPending": 23,
+        "pendingAmountRs": 12923575,
+        "ftosChecked": 23,
+        "acceptedAmountRs": 12923575,
+        "rejectedAmountRs": 0,
+        "verifiedAmountRs": 12923575,
+        "status": "100.00%"
+      },
+      "ekyc": {
+        "totalWorkers": 57821,
+        "aadhaarSeeded": 57736,
+        "ekycDone": 48650,
+        "ekycPct": 84.26,
+        "authenticated": 56095,
+        "authFailed": 1641,
+        "abpsEligible": 0
+      },
+      "target": {
+        "gps": 7,
+        "sep2026": 10605,
+        "oct2026": 31815,
+        "nov2026": 42420,
+        "dec2026": 42420,
+        "jan2027": 38178,
+        "feb2027": 29694,
+        "mar2027": 16968,
+        "totalTarget": 212100
+      },
+      "pba": {
+        "slNo": 7,
+        "blockName": "MAYURESWAR-II",
+        "totalBeneficiaries": 3263,
+        "tableTopDone": 3263,
+        "pendingTableTop": 0,
+        "verifiedOk": 1931,
+        "deletedJobcards": 626,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 626,
+        "notAvailableJobcards": 706,
+        "newJobcardsForNotAvailable": 26,
+        "pendingNotAvailable": 680,
+        "availableWorkCodes": 802,
+        "mustersGenerated": 0,
+        "emrIssueRegister": 22
+      }
+    },
+    {
+      "slNo": 8,
+      "blockName": "MOHAMMAD BAZAR",
+      "allotment": {
+        "countA": 4959,
+        "countB": 1916,
+        "totalCount": 6875,
+        "cat1Lakh": 65.08,
+        "cat2Lakh": 28.94,
+        "cat3Lakh": 76.22,
+        "totalLakh": 170.24,
+        "totalCr": 1.7
+      },
+      "works": {
+        "gps": 12,
+        "totalWorks": 393,
+        "estimatesStarted": 261,
+        "ts": 158,
+        "as": 155,
+        "pending": 235,
+        "tsPct": 40.2,
+        "asPct": 39.4
+      },
+      "fto": {
+        "ftosPending": 99,
+        "pendingAmountRs": 34929132,
+        "ftosChecked": 99,
+        "acceptedAmountRs": 32716257,
+        "rejectedAmountRs": 2212875,
+        "verifiedAmountRs": 34929132,
+        "status": "100.00%"
+      },
+      "ekyc": {
+        "totalWorkers": 81986,
+        "aadhaarSeeded": 81912,
+        "ekycDone": 72751,
+        "ekycPct": 88.82,
+        "authenticated": 80074,
+        "authFailed": 1838,
+        "abpsEligible": 0
+      },
+      "target": {
+        "gps": 12,
+        "sep2026": 18180,
+        "oct2026": 54540,
+        "nov2026": 72720,
+        "dec2026": 72720,
+        "jan2027": 65448,
+        "feb2027": 50904,
+        "mar2027": 29088,
+        "totalTarget": 363600
+      },
+      "pba": {
+        "slNo": 8,
+        "blockName": "MOHAMMAD BAZAR",
+        "totalBeneficiaries": 2046,
+        "tableTopDone": 2046,
+        "pendingTableTop": 0,
+        "verifiedOk": 1936,
+        "deletedJobcards": 55,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 55,
+        "notAvailableJobcards": 55,
+        "newJobcardsForNotAvailable": 3,
+        "pendingNotAvailable": 52,
+        "availableWorkCodes": 1509,
+        "mustersGenerated": 0,
+        "emrIssueRegister": 41
+      }
+    },
+    {
+      "slNo": 9,
+      "blockName": "MURARAI-I",
+      "allotment": {
+        "countA": 1143,
+        "countB": 1220,
+        "totalCount": 2363,
+        "cat1Lakh": 22.44,
+        "cat2Lakh": 4.34,
+        "cat3Lakh": 40.99,
+        "totalLakh": 67.77,
+        "totalCr": 0.68
+      },
+      "works": {
+        "gps": 7,
+        "totalWorks": 223,
+        "estimatesStarted": 153,
+        "ts": 94,
+        "as": 92,
+        "pending": 129,
+        "tsPct": 42.2,
+        "asPct": 41.3
+      },
+      "fto": {
+        "ftosPending": 92,
+        "pendingAmountRs": 32299623,
+        "ftosChecked": 92,
+        "acceptedAmountRs": 32299623,
+        "rejectedAmountRs": 0,
+        "verifiedAmountRs": 32299623,
+        "status": "100.00%"
+      },
+      "ekyc": {
+        "totalWorkers": 50232,
+        "aadhaarSeeded": 50228,
+        "ekycDone": 46740,
+        "ekycPct": 93.06,
+        "authenticated": 49683,
+        "authFailed": 545,
+        "abpsEligible": 0
+      },
+      "target": {
+        "gps": 7,
+        "sep2026": 10605,
+        "oct2026": 31815,
+        "nov2026": 42420,
+        "dec2026": 42420,
+        "jan2027": 38178,
+        "feb2027": 29694,
+        "mar2027": 16968,
+        "totalTarget": 212100
+      },
+      "pba": {
+        "slNo": 9,
+        "blockName": "MURARAI-I",
+        "totalBeneficiaries": 4315,
+        "tableTopDone": 4315,
+        "pendingTableTop": 0,
+        "verifiedOk": 1835,
+        "deletedJobcards": 2098,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 2098,
+        "notAvailableJobcards": 382,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 382,
+        "availableWorkCodes": 1714,
+        "mustersGenerated": 1,
+        "emrIssueRegister": 82
+      }
+    },
+    {
+      "slNo": 10,
+      "blockName": "MURARAI-II",
+      "allotment": {
+        "countA": 1391,
+        "countB": 2385,
+        "totalCount": 3776,
+        "cat1Lakh": 18.83,
+        "cat2Lakh": 0.32,
+        "cat3Lakh": 112.1,
+        "totalLakh": 131.25,
+        "totalCr": 1.31
+      },
+      "works": {
+        "gps": 9,
+        "totalWorks": 280,
+        "estimatesStarted": 186,
+        "ts": 136,
+        "as": 136,
+        "pending": 144,
+        "tsPct": 48.6,
+        "asPct": 48.6
+      },
+      "fto": {
+        "ftosPending": 118,
+        "pendingAmountRs": 59859142,
+        "ftosChecked": 104,
+        "acceptedAmountRs": 59361978,
+        "rejectedAmountRs": 497164,
+        "verifiedAmountRs": 59859142,
+        "status": "100.00%"
+      },
+      "ekyc": {
+        "totalWorkers": 70393,
+        "aadhaarSeeded": 70379,
+        "ekycDone": 63229,
+        "ekycPct": 89.84,
+        "authenticated": 69047,
+        "authFailed": 1332,
+        "abpsEligible": 0
+      },
+      "target": {
+        "gps": 9,
+        "sep2026": 13635,
+        "oct2026": 40905,
+        "nov2026": 54540,
+        "dec2026": 54540,
+        "jan2027": 49086,
+        "feb2027": 38178,
+        "mar2027": 21816,
+        "totalTarget": 272700
+      },
+      "pba": {
+        "slNo": 10,
+        "blockName": "MURARAI-II",
+        "totalBeneficiaries": 7660,
+        "tableTopDone": 7660,
+        "pendingTableTop": 0,
+        "verifiedOk": 3706,
+        "deletedJobcards": 3876,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 3876,
+        "notAvailableJobcards": 78,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 78,
+        "availableWorkCodes": 2909,
+        "mustersGenerated": 100,
+        "emrIssueRegister": 184
+      }
+    },
+    {
+      "slNo": 11,
+      "blockName": "NALHATI-I",
+      "allotment": {
+        "countA": 6120,
+        "countB": 4053,
+        "totalCount": 10173,
+        "cat1Lakh": 158.78,
+        "cat2Lakh": 5.44,
+        "cat3Lakh": 105.6,
+        "totalLakh": 269.82,
+        "totalCr": 2.7
+      },
+      "works": {
+        "gps": 9,
+        "totalWorks": 327,
+        "estimatesStarted": 257,
+        "ts": 183,
+        "as": 181,
+        "pending": 144,
+        "tsPct": 56.0,
+        "asPct": 55.4
+      },
+      "fto": {
+        "ftosPending": 64,
+        "pendingAmountRs": 13686787,
+        "ftosChecked": 64,
+        "acceptedAmountRs": 13630901,
+        "rejectedAmountRs": 55886,
+        "verifiedAmountRs": 13686787,
+        "status": "100.00%"
+      },
+      "ekyc": {
+        "totalWorkers": 80577,
+        "aadhaarSeeded": 80507,
+        "ekycDone": 71440,
+        "ekycPct": 88.74,
+        "authenticated": 79073,
+        "authFailed": 1434,
+        "abpsEligible": 0
+      },
+      "target": {
+        "gps": 9,
+        "sep2026": 13635,
+        "oct2026": 40905,
+        "nov2026": 54540,
+        "dec2026": 54540,
+        "jan2027": 49086,
+        "feb2027": 38178,
+        "mar2027": 21816,
+        "totalTarget": 272700
+      },
+      "pba": {
+        "slNo": 11,
+        "blockName": "NALHATI-I",
+        "totalBeneficiaries": 4113,
+        "tableTopDone": 4113,
+        "pendingTableTop": 0,
+        "verifiedOk": 2362,
+        "deletedJobcards": 372,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 372,
+        "notAvailableJobcards": 1379,
+        "newJobcardsForNotAvailable": 38,
+        "pendingNotAvailable": 1341,
+        "availableWorkCodes": 1906,
+        "mustersGenerated": 0,
+        "emrIssueRegister": 238
+      }
+    },
+    {
+      "slNo": 12,
+      "blockName": "NALHATI-II",
+      "allotment": {
+        "countA": 1181,
+        "countB": 2107,
+        "totalCount": 3288,
+        "cat1Lakh": 18.38,
+        "cat2Lakh": 0.4,
+        "cat3Lakh": 93.89,
+        "totalLakh": 112.67,
+        "totalCr": 1.13
+      },
+      "works": {
+        "gps": 6,
+        "totalWorks": 158,
+        "estimatesStarted": 91,
+        "ts": 79,
+        "as": 79,
+        "pending": 79,
+        "tsPct": 50.0,
+        "asPct": 50.0
+      },
+      "fto": {
+        "ftosPending": 131,
+        "pendingAmountRs": 15181841,
+        "ftosChecked": 131,
+        "acceptedAmountRs": 15181841,
+        "rejectedAmountRs": 0,
+        "verifiedAmountRs": 15181841,
+        "status": "100.00%"
+      },
+      "ekyc": {
+        "totalWorkers": 45374,
+        "aadhaarSeeded": 45314,
+        "ekycDone": 40278,
+        "ekycPct": 88.89,
+        "authenticated": 44456,
+        "authFailed": 858,
+        "abpsEligible": 0
+      },
+      "target": {
+        "gps": 6,
+        "sep2026": 9090,
+        "oct2026": 27270,
+        "nov2026": 36360,
+        "dec2026": 36360,
+        "jan2027": 32724,
+        "feb2027": 25452,
+        "mar2027": 14544,
+        "totalTarget": 181800
+      },
+      "pba": {
+        "slNo": 12,
+        "blockName": "NALHATI-II",
+        "totalBeneficiaries": 2984,
+        "tableTopDone": 2984,
+        "pendingTableTop": 0,
+        "verifiedOk": 2316,
+        "deletedJobcards": 587,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 587,
+        "notAvailableJobcards": 81,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 81,
+        "availableWorkCodes": 1567,
+        "mustersGenerated": 0,
+        "emrIssueRegister": 286
+      }
+    },
+    {
+      "slNo": 13,
+      "blockName": "NANOOR",
+      "allotment": {
+        "countA": 2383,
+        "countB": 2491,
+        "totalCount": 4874,
+        "cat1Lakh": 73.44,
+        "cat2Lakh": 1.45,
+        "cat3Lakh": 58.16,
+        "totalLakh": 133.05,
+        "totalCr": 1.33
+      },
+      "works": {
+        "gps": 11,
+        "totalWorks": 300,
+        "estimatesStarted": 192,
+        "ts": 109,
+        "as": 107,
+        "pending": 191,
+        "tsPct": 36.3,
+        "asPct": 35.7
+      },
+      "fto": {
+        "ftosPending": 53,
+        "pendingAmountRs": 35945283,
+        "ftosChecked": 53,
+        "acceptedAmountRs": 35938933,
+        "rejectedAmountRs": 6350,
+        "verifiedAmountRs": 35945283,
+        "status": "100.00%"
+      },
+      "ekyc": {
+        "totalWorkers": 79473,
+        "aadhaarSeeded": 79393,
+        "ekycDone": 73763,
+        "ekycPct": 92.91,
+        "authenticated": 78282,
+        "authFailed": 1111,
+        "abpsEligible": 0
+      },
+      "target": {
+        "gps": 11,
+        "sep2026": 16665,
+        "oct2026": 49995,
+        "nov2026": 66660,
+        "dec2026": 66660,
+        "jan2027": 59994,
+        "feb2027": 46662,
+        "mar2027": 26664,
+        "totalTarget": 333300
+      },
+      "pba": {
+        "slNo": 13,
+        "blockName": "NANOOR",
+        "totalBeneficiaries": 3603,
+        "tableTopDone": 3603,
+        "pendingTableTop": 0,
+        "verifiedOk": 2547,
+        "deletedJobcards": 479,
+        "newJobcardsForDeleted": 47,
+        "pendingDeleted": 432,
+        "notAvailableJobcards": 577,
+        "newJobcardsForNotAvailable": 53,
+        "pendingNotAvailable": 524,
+        "availableWorkCodes": 1868,
+        "mustersGenerated": 681,
+        "emrIssueRegister": 837
+      }
+    },
+    {
+      "slNo": 14,
+      "blockName": "RAJNAGAR",
+      "allotment": {
+        "countA": 2247,
+        "countB": 3288,
+        "totalCount": 5535,
+        "cat1Lakh": 64.99,
+        "cat2Lakh": 22.44,
+        "cat3Lakh": 42.22,
+        "totalLakh": 129.65,
+        "totalCr": 1.3
+      },
+      "works": {
+        "gps": 5,
+        "totalWorks": 236,
+        "estimatesStarted": 165,
+        "ts": 113,
+        "as": 113,
+        "pending": 123,
+        "tsPct": 47.9,
+        "asPct": 47.9
+      },
+      "fto": {
+        "ftosPending": 23,
+        "pendingAmountRs": 22590970,
+        "ftosChecked": 23,
+        "acceptedAmountRs": 22590970,
+        "rejectedAmountRs": 0,
+        "verifiedAmountRs": 22590970,
+        "status": "100.00%"
+      },
+      "ekyc": {
+        "totalWorkers": 34456,
+        "aadhaarSeeded": 34444,
+        "ekycDone": 31258,
+        "ekycPct": 90.75,
+        "authenticated": 34005,
+        "authFailed": 439,
+        "abpsEligible": 0
+      },
+      "target": {
+        "gps": 5,
+        "sep2026": 7575,
+        "oct2026": 22725,
+        "nov2026": 30300,
+        "dec2026": 30300,
+        "jan2027": 27270,
+        "feb2027": 21210,
+        "mar2027": 12120,
+        "totalTarget": 151500
+      },
+      "pba": {
+        "slNo": 14,
+        "blockName": "RAJNAGAR",
+        "totalBeneficiaries": 2175,
+        "tableTopDone": 2175,
+        "pendingTableTop": 0,
+        "verifiedOk": 1733,
+        "deletedJobcards": 317,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 317,
+        "notAvailableJobcards": 168,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 168,
+        "availableWorkCodes": 1483,
+        "mustersGenerated": 273,
+        "emrIssueRegister": 317
+      }
+    },
+    {
+      "slNo": 15,
+      "blockName": "RAMPURHAT-I",
+      "allotment": {
+        "countA": 2464,
+        "countB": 1181,
+        "totalCount": 3645,
+        "cat1Lakh": 45.76,
+        "cat2Lakh": 9.06,
+        "cat3Lakh": 37.92,
+        "totalLakh": 92.74,
+        "totalCr": 0.93
+      },
+      "works": {
+        "gps": 9,
+        "totalWorks": 189,
+        "estimatesStarted": 162,
+        "ts": 124,
+        "as": 123,
+        "pending": 65,
+        "tsPct": 65.6,
+        "asPct": 65.1
+      },
+      "fto": {
+        "ftosPending": 68,
+        "pendingAmountRs": 47742834,
+        "ftosChecked": 68,
+        "acceptedAmountRs": 47680734,
+        "rejectedAmountRs": 62100,
+        "verifiedAmountRs": 47742834,
+        "status": "100.00%"
+      },
+      "ekyc": {
+        "totalWorkers": 67220,
+        "aadhaarSeeded": 67191,
+        "ekycDone": 59737,
+        "ekycPct": 88.91,
+        "authenticated": 66067,
+        "authFailed": 1124,
+        "abpsEligible": 0
+      },
+      "target": {
+        "gps": 9,
+        "sep2026": 13635,
+        "oct2026": 40905,
+        "nov2026": 54540,
+        "dec2026": 54540,
+        "jan2027": 49086,
+        "feb2027": 38178,
+        "mar2027": 21816,
+        "totalTarget": 272700
+      },
+      "pba": {
+        "slNo": 15,
+        "blockName": "RAMPURHAT-I",
+        "totalBeneficiaries": 3394,
+        "tableTopDone": 3394,
+        "pendingTableTop": 0,
+        "verifiedOk": 2579,
+        "deletedJobcards": 534,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 534,
+        "notAvailableJobcards": 337,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 337,
+        "availableWorkCodes": 2112,
+        "mustersGenerated": 115,
+        "emrIssueRegister": 115
+      }
+    },
+    {
+      "slNo": 16,
+      "blockName": "RAMPURHAT-II",
+      "allotment": {
+        "countA": 1452,
+        "countB": 1800,
+        "totalCount": 3252,
+        "cat1Lakh": 42.74,
+        "cat2Lakh": 0.19,
+        "cat3Lakh": 51.55,
+        "totalLakh": 94.48,
+        "totalCr": 0.94
+      },
+      "works": {
+        "gps": 9,
+        "totalWorks": 318,
+        "estimatesStarted": 231,
+        "ts": 110,
+        "as": 110,
+        "pending": 208,
+        "tsPct": 34.6,
+        "asPct": 34.6
+      },
+      "fto": {
+        "ftosPending": 83,
+        "pendingAmountRs": 13597415,
+        "ftosChecked": 83,
+        "acceptedAmountRs": 12953515,
+        "rejectedAmountRs": 643900,
+        "verifiedAmountRs": 13597415,
+        "status": "100.00%"
+      },
+      "ekyc": {
+        "totalWorkers": 62560,
+        "aadhaarSeeded": 62546,
+        "ekycDone": 56331,
+        "ekycPct": 90.06,
+        "authenticated": 60384,
+        "authFailed": 2162,
+        "abpsEligible": 0
+      },
+      "target": {
+        "gps": 9,
+        "sep2026": 13635,
+        "oct2026": 40905,
+        "nov2026": 54540,
+        "dec2026": 54540,
+        "jan2027": 49086,
+        "feb2027": 38178,
+        "mar2027": 21816,
+        "totalTarget": 272700
+      },
+      "pba": {
+        "slNo": 16,
+        "blockName": "RAMPURHAT-II",
+        "totalBeneficiaries": 3461,
+        "tableTopDone": 3461,
+        "pendingTableTop": 0,
+        "verifiedOk": 1835,
+        "deletedJobcards": 503,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 503,
+        "notAvailableJobcards": 1123,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 1123,
+        "availableWorkCodes": 1750,
+        "mustersGenerated": 0,
+        "emrIssueRegister": 812
+      }
+    },
+    {
+      "slNo": 17,
+      "blockName": "SAINTHIA",
+      "allotment": {
+        "countA": 5774,
+        "countB": 3883,
+        "totalCount": 9657,
+        "cat1Lakh": 152.22,
+        "cat2Lakh": 8.85,
+        "cat3Lakh": 87.89,
+        "totalLakh": 248.96,
+        "totalCr": 2.49
+      },
+      "works": {
+        "gps": 12,
+        "totalWorks": 459,
+        "estimatesStarted": 246,
+        "ts": 141,
+        "as": 138,
+        "pending": 318,
+        "tsPct": 30.7,
+        "asPct": 30.1
+      },
+      "fto": {
+        "ftosPending": 40,
+        "pendingAmountRs": 44049275,
+        "ftosChecked": 40,
+        "acceptedAmountRs": 43980465,
+        "rejectedAmountRs": 68810,
+        "verifiedAmountRs": 44049275,
+        "status": "100.00%"
+      },
+      "ekyc": {
+        "totalWorkers": 83917,
+        "aadhaarSeeded": 83802,
+        "ekycDone": 76197,
+        "ekycPct": 90.93,
+        "authenticated": 82517,
+        "authFailed": 1285,
+        "abpsEligible": 0
+      },
+      "target": {
+        "gps": 12,
+        "sep2026": 18180,
+        "oct2026": 54540,
+        "nov2026": 72720,
+        "dec2026": 72720,
+        "jan2027": 65448,
+        "feb2027": 50904,
+        "mar2027": 29088,
+        "totalTarget": 363600
+      },
+      "pba": {
+        "slNo": 17,
+        "blockName": "SAINTHIA",
+        "totalBeneficiaries": 5260,
+        "tableTopDone": 5260,
+        "pendingTableTop": 0,
+        "verifiedOk": 3089,
+        "deletedJobcards": 1237,
+        "newJobcardsForDeleted": 57,
+        "pendingDeleted": 1180,
+        "notAvailableJobcards": 934,
+        "newJobcardsForNotAvailable": 259,
+        "pendingNotAvailable": 675,
+        "availableWorkCodes": 3312,
+        "mustersGenerated": 243,
+        "emrIssueRegister": 728
+      }
+    },
+    {
+      "slNo": 18,
+      "blockName": "SURI-I",
+      "allotment": {
+        "countA": 1018,
+        "countB": 1829,
+        "totalCount": 2847,
+        "cat1Lakh": 50.85,
+        "cat2Lakh": 2.91,
+        "cat3Lakh": 14.94,
+        "totalLakh": 68.7,
+        "totalCr": 0.69
+      },
+      "works": {
+        "gps": 7,
+        "totalWorks": 163,
+        "estimatesStarted": 135,
+        "ts": 72,
+        "as": 70,
+        "pending": 91,
+        "tsPct": 44.2,
+        "asPct": 42.9
+      },
+      "fto": {
+        "ftosPending": 70,
+        "pendingAmountRs": 21659248,
+        "ftosChecked": 69,
+        "acceptedAmountRs": 21533248,
+        "rejectedAmountRs": 126000,
+        "verifiedAmountRs": 21659248,
+        "status": "100.00%"
+      },
+      "ekyc": {
+        "totalWorkers": 40233,
+        "aadhaarSeeded": 39196,
+        "ekycDone": 36372,
+        "ekycPct": 92.8,
+        "authenticated": 38642,
+        "authFailed": 554,
+        "abpsEligible": 0
+      },
+      "target": {
+        "gps": 7,
+        "sep2026": 10605,
+        "oct2026": 31815,
+        "nov2026": 42420,
+        "dec2026": 42420,
+        "jan2027": 38178,
+        "feb2027": 29694,
+        "mar2027": 16968,
+        "totalTarget": 212100
+      },
+      "pba": {
+        "slNo": 18,
+        "blockName": "SURI-I",
+        "totalBeneficiaries": 2130,
+        "tableTopDone": 2130,
+        "pendingTableTop": 0,
+        "verifiedOk": 1456,
+        "deletedJobcards": 165,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 165,
+        "notAvailableJobcards": 509,
+        "newJobcardsForNotAvailable": 157,
+        "pendingNotAvailable": 352,
+        "availableWorkCodes": 1072,
+        "mustersGenerated": 0,
+        "emrIssueRegister": 74
+      }
+    },
+    {
+      "slNo": 19,
+      "blockName": "SURI-II",
+      "allotment": {
+        "countA": 3586,
+        "countB": 1350,
+        "totalCount": 4936,
+        "cat1Lakh": 63.67,
+        "cat2Lakh": 10.09,
+        "cat3Lakh": 54.24,
+        "totalLakh": 128.0,
+        "totalCr": 1.28
+      },
+      "works": {
+        "gps": 6,
+        "totalWorks": 201,
+        "estimatesStarted": 161,
+        "ts": 101,
+        "as": 101,
+        "pending": 100,
+        "tsPct": 50.2,
+        "asPct": 50.2
+      },
+      "fto": {
+        "ftosPending": 78,
+        "pendingAmountRs": 13038615,
+        "ftosChecked": 78,
+        "acceptedAmountRs": 13038615,
+        "rejectedAmountRs": 0,
+        "verifiedAmountRs": 13038615,
+        "status": "100.00%"
+      },
+      "ekyc": {
+        "totalWorkers": 38627,
+        "aadhaarSeeded": 37244,
+        "ekycDone": 33799,
+        "ekycPct": 90.75,
+        "authenticated": 36421,
+        "authFailed": 823,
+        "abpsEligible": 0
+      },
+      "target": {
+        "gps": 6,
+        "sep2026": 9090,
+        "oct2026": 27270,
+        "nov2026": 36360,
+        "dec2026": 36360,
+        "jan2027": 32724,
+        "feb2027": 25452,
+        "mar2027": 14544,
+        "totalTarget": 181800
+      },
+      "pba": {
+        "slNo": 19,
+        "blockName": "SURI-II",
+        "totalBeneficiaries": 1439,
+        "tableTopDone": 1439,
+        "pendingTableTop": 0,
+        "verifiedOk": 1176,
+        "deletedJobcards": 53,
+        "newJobcardsForDeleted": 45,
+        "pendingDeleted": 8,
+        "notAvailableJobcards": 210,
+        "newJobcardsForNotAvailable": 195,
+        "pendingNotAvailable": 15,
+        "availableWorkCodes": 868,
+        "mustersGenerated": 94,
+        "emrIssueRegister": 591
+      }
+    }
+  ],
+  "nmmsSummary": {
+    "totalMusters": 32500,
+    "totalAttendance": 154878,
+    "todayAttendance": 2457,
+    "todayMusters": 523,
+    "date": "17-10-2026 (Live Updated)",
+    "blockPerformance": [
+      {
+        "block": "DUBRAJPUR",
+        "attendance": 18577,
+        "musters": 3545,
+        "todayAttendance": 302
+      },
+      {
+        "block": "ILLAMBAZAR",
+        "attendance": 8990,
+        "musters": 2375,
+        "todayAttendance": 256
+      },
+      {
+        "block": "SURI-II",
+        "attendance": 6598,
+        "musters": 1406,
+        "todayAttendance": 223
+      },
+      {
+        "block": "KHOYRASOL",
+        "attendance": 24223,
+        "musters": 4344,
+        "todayAttendance": 222
+      },
+      {
+        "block": "RAJNAGAR",
+        "attendance": 7537,
+        "musters": 1750,
+        "todayAttendance": 218
+      },
+      {
+        "block": "BOLPUR-SRINIKETAN",
+        "attendance": 7907,
+        "musters": 1682,
+        "todayAttendance": 174
+      },
+      {
+        "block": "MURARAI-I",
+        "attendance": 3953,
+        "musters": 822,
+        "todayAttendance": 149
+      },
+      {
+        "block": "MAYURESWAR-II",
+        "attendance": 6706,
+        "musters": 1479,
+        "todayAttendance": 147
+      },
+      {
+        "block": "RAMPURHAT-II",
+        "attendance": 4638,
+        "musters": 1266,
+        "todayAttendance": 143
+      },
+      {
+        "block": "MURARAI-II",
+        "attendance": 4702,
+        "musters": 1318,
+        "todayAttendance": 118
+      },
+      {
+        "block": "MAYURESWAR-I",
+        "attendance": 6659,
+        "musters": 1411,
+        "todayAttendance": 109
+      },
+      {
+        "block": "NALHATI-II",
+        "attendance": 4124,
+        "musters": 989,
+        "todayAttendance": 93
+      },
+      {
+        "block": "NALHATI-I",
+        "attendance": 10971,
+        "musters": 2059,
+        "todayAttendance": 66
+      },
+      {
+        "block": "MOHAMMAD BAZAR",
+        "attendance": 7653,
+        "musters": 1607,
+        "todayAttendance": 52
+      },
+      {
+        "block": "RAMPURHAT-I",
+        "attendance": 4745,
+        "musters": 1191,
+        "todayAttendance": 49
+      },
+      {
+        "block": "LABPUR",
+        "attendance": 6751,
+        "musters": 1450,
+        "todayAttendance": 43
+      },
+      {
+        "block": "SAINTHIA",
+        "attendance": 11020,
+        "musters": 1823,
+        "todayAttendance": 43
+      },
+      {
+        "block": "SURI-I",
+        "attendance": 3262,
+        "musters": 760,
+        "todayAttendance": 27
+      },
+      {
+        "block": "NANOOR",
+        "attendance": 5862,
+        "musters": 1223,
+        "todayAttendance": 23
+      }
+    ],
+    "recentMusters": [
+      {
+        "musterNo": "564",
+        "block": "BOLPUR-SRINIKETAN",
+        "gramPanchayat": "RAIPUR-SUPUR",
+        "workers": 8,
+        "time": "Today 08:00 AM",
+        "status": "Verified Present",
+        "workCode": "3203011004/WH/YD/321002041215899"
+      },
+      {
+        "musterNo": "612",
+        "block": "BOLPUR-SRINIKETAN",
+        "gramPanchayat": "RUPPUR",
+        "workers": 6,
+        "time": "Today 08:00 AM",
+        "status": "Verified Present",
+        "workCode": "3203011005/IF/VB/321002041362214"
+      },
+      {
+        "musterNo": "615",
+        "block": "BOLPUR-SRINIKETAN",
+        "gramPanchayat": "RUPPUR",
+        "workers": 1,
+        "time": "Today 08:00 AM",
+        "status": "Verified Present",
+        "workCode": "3203011005/IF/VB/321002041362214"
+      },
+      {
+        "musterNo": "618",
+        "block": "BOLPUR-SRINIKETAN",
+        "gramPanchayat": "RUPPUR",
+        "workers": 7,
+        "time": "Today 08:00 AM",
+        "status": "Verified Present",
+        "workCode": "3203011005/IF/VB/321002041362214"
+      },
+      {
+        "musterNo": "607",
+        "block": "BOLPUR-SRINIKETAN",
+        "gramPanchayat": "SATTOR",
+        "workers": 5,
+        "time": "Today 08:00 AM",
+        "status": "Verified Present",
+        "workCode": "3203011007/IF/VB/321002041362947"
+      },
+      {
+        "musterNo": "644",
+        "block": "BOLPUR-SRINIKETAN",
+        "gramPanchayat": "SATTOR",
+        "workers": 5,
+        "time": "Today 08:00 AM",
+        "status": "Verified Present",
+        "workCode": "3203011007/IF/VB/321002041363433"
+      },
+      {
+        "musterNo": "646",
+        "block": "BOLPUR-SRINIKETAN",
+        "gramPanchayat": "SATTOR",
+        "workers": 9,
+        "time": "Today 08:00 AM",
+        "status": "Verified Present",
+        "workCode": "3203011007/WC/VB/321002041010844"
+      },
+      {
+        "musterNo": "620",
+        "block": "BOLPUR-SRINIKETAN",
+        "gramPanchayat": "SINGHEE",
+        "workers": 10,
+        "time": "Today 08:00 AM",
+        "status": "Verified Present",
+        "workCode": "3203011009/IF/VB/321002041363120"
+      },
+      {
+        "musterNo": "1075",
+        "block": "DUBRAJPUR",
+        "gramPanchayat": "LAXMI-NARAYANPUR",
+        "workers": 5,
+        "time": "Today 08:00 AM",
+        "status": "Verified Present",
+        "workCode": "3203014006/DP/VB/321002041012673"
+      },
+      {
+        "musterNo": "999",
+        "block": "DUBRAJPUR",
+        "gramPanchayat": "PADUMA",
+        "workers": 8,
+        "time": "Today 08:00 AM",
+        "status": "Verified Present",
+        "workCode": "3203014008/WH/VB/321002041216843"
+      },
+      {
+        "musterNo": "826",
+        "block": "ILLAMBAZAR",
+        "gramPanchayat": "DHARAMPUR",
+        "workers": 7,
+        "time": "Today 08:00 AM",
+        "status": "Verified Present",
+        "workCode": "3203015003/WC/VB/321002041010300"
+      },
+      {
+        "musterNo": "829",
+        "block": "ILLAMBAZAR",
+        "gramPanchayat": "DHARAMPUR",
+        "workers": 6,
+        "time": "Today 08:00 AM",
+        "status": "Verified Present",
+        "workCode": "3203015003/WC/VB/321002041010300"
+      },
+      {
+        "musterNo": "832",
+        "block": "ILLAMBAZAR",
+        "gramPanchayat": "DHARAMPUR",
+        "workers": 1,
+        "time": "Today 08:00 AM",
+        "status": "Verified Present",
+        "workCode": "3203015003/WH/VB/321002041216828"
+      },
+      {
+        "musterNo": "838",
+        "block": "ILLAMBAZAR",
+        "gramPanchayat": "DHARAMPUR",
+        "workers": 3,
+        "time": "Today 08:00 AM",
+        "status": "Verified Present",
+        "workCode": "3203015003/WH/VB/321002041216828"
+      },
+      {
+        "musterNo": "861",
+        "block": "ILLAMBAZAR",
+        "gramPanchayat": "DHARAMPUR",
+        "workers": 1,
+        "time": "Today 08:00 AM",
+        "status": "Verified Present",
+        "workCode": "3203015003/WH/VB/321002041216828"
+      },
+      {
+        "musterNo": "867",
+        "block": "ILLAMBAZAR",
+        "gramPanchayat": "DHARAMPUR",
+        "workers": 4,
+        "time": "Today 08:00 AM",
+        "status": "Verified Present",
+        "workCode": "3203015003/WH/VB/321002041216828"
+      },
+      {
+        "musterNo": "996",
+        "block": "ILLAMBAZAR",
+        "gramPanchayat": "GHURISHA",
+        "workers": 4,
+        "time": "Today 08:00 AM",
+        "status": "Verified Present",
+        "workCode": "3203015004/WH/VB/321002041216862"
+      },
+      {
+        "musterNo": "999",
+        "block": "ILLAMBAZAR",
+        "gramPanchayat": "GHURISHA",
+        "workers": 6,
+        "time": "Today 08:00 AM",
+        "status": "Verified Present",
+        "workCode": "3203015004/WH/VB/321002041216862"
+      },
+      {
+        "musterNo": "1003",
+        "block": "ILLAMBAZAR",
+        "gramPanchayat": "ILLAMBAZAR",
+        "workers": 5,
+        "time": "Today 08:00 AM",
+        "status": "Verified Present",
+        "workCode": "3203015005/RC/VB/320201060642838"
+      },
+      {
+        "musterNo": "932",
+        "block": "ILLAMBAZAR",
+        "gramPanchayat": "NANASOLE",
+        "workers": 5,
+        "time": "Today 08:00 AM",
+        "status": "Verified Present",
+        "workCode": "3203015008/WC/VB/321002041009472"
+      }
+    ]
+  },
+  "categoryMatrixSummary": {
+    "totalReceivedWorks": 6285,
+    "totalApprovedWorks": 3450,
+    "totalOngoingWorks": 1693,
+    "totalPersondays": 86384,
+    "totalNmmsAttendance": 145985,
+    "approvalPercent": 54.89,
+    "categories": [
+      {
+        "id": "DROUGHT",
+        "icon": "\u2600\ufe0f",
+        "name": "Drought Proofing",
+        "receivedWorks": 2001,
+        "approvedWorks": 372,
+        "ongoingWorks": 1217,
+        "approvedPercent": 18.59,
+        "persondaysGenerated": 43245,
+        "nmmsAttendance": 73084
+      },
+      {
+        "id": "CONNECTIVITY",
+        "icon": "\ud83d\udee3\ufe0f",
+        "name": "Rural Connectivity",
+        "receivedWorks": 1581,
+        "approvedWorks": 1424,
+        "ongoingWorks": 63,
+        "approvedPercent": 90.07,
+        "persondaysGenerated": 855,
+        "nmmsAttendance": 1444
+      },
+      {
+        "id": "FLOOD",
+        "icon": "\ud83c\udf0a",
+        "name": "Flood Control & Protection",
+        "receivedWorks": 654,
+        "approvedWorks": 551,
+        "ongoingWorks": 31,
+        "approvedPercent": 84.25,
+        "persondaysGenerated": 389,
+        "nmmsAttendance": 657
+      },
+      {
+        "id": "WATER_BODIES",
+        "icon": "\ud83d\udca7",
+        "name": "Renovation of Water Bodies",
+        "receivedWorks": 463,
+        "approvedWorks": 309,
+        "ongoingWorks": 113,
+        "approvedPercent": 66.74,
+        "persondaysGenerated": 23054,
+        "nmmsAttendance": 38961
+      },
+      {
+        "id": "WATER_CONSERVATION",
+        "icon": "\ud83c\udf27\ufe0f",
+        "name": "Water Conservation & Harvesting",
+        "receivedWorks": 407,
+        "approvedWorks": 276,
+        "ongoingWorks": 105,
+        "approvedPercent": 67.81,
+        "persondaysGenerated": 14560,
+        "nmmsAttendance": 24606
+      },
+      {
+        "id": "SANITATION",
+        "icon": "\ud83d\udeb0",
+        "name": "Rural Sanitation",
+        "receivedWorks": 392,
+        "approvedWorks": 293,
+        "ongoingWorks": 52,
+        "approvedPercent": 74.74,
+        "persondaysGenerated": 677,
+        "nmmsAttendance": 1144
+      },
+      {
+        "id": "INDIVIDUAL_LAND",
+        "icon": "\ud83c\udf3e",
+        "name": "Works on Individual Land (Cat IV)",
+        "receivedWorks": 304,
+        "approvedWorks": 185,
+        "ongoingWorks": 82,
+        "approvedPercent": 60.86,
+        "persondaysGenerated": 2241,
+        "nmmsAttendance": 3787
+      },
+      {
+        "id": "ANGANWADI",
+        "icon": "\ud83c\udfeb",
+        "name": "Anganwadi & Rural Infrastructure",
+        "receivedWorks": 267,
+        "approvedWorks": 12,
+        "ongoingWorks": 8,
+        "approvedPercent": 4.49,
+        "persondaysGenerated": 557,
+        "nmmsAttendance": 941
+      },
+      {
+        "id": "MICRO_IRRIGATION",
+        "icon": "\ud83d\udebf",
+        "name": "Micro Irrigation Works",
+        "receivedWorks": 197,
+        "approvedWorks": 22,
+        "ongoingWorks": 18,
+        "approvedPercent": 11.17,
+        "persondaysGenerated": 459,
+        "nmmsAttendance": 775
+      },
+      {
+        "id": "FISHERIES",
+        "icon": "\ud83d\udc1f",
+        "name": "Fisheries Development",
+        "receivedWorks": 10,
+        "approvedWorks": 0,
+        "ongoingWorks": 3,
+        "approvedPercent": 0.0,
+        "persondaysGenerated": 347,
+        "nmmsAttendance": 586
+      },
+      {
+        "id": "LAND_DEV",
+        "icon": "\ud83d\ude9c",
+        "name": "Land Development",
+        "receivedWorks": 9,
+        "approvedWorks": 6,
+        "ongoingWorks": 1,
+        "approvedPercent": 66.67,
+        "persondaysGenerated": 0,
+        "nmmsAttendance": 0
+      }
+    ]
+  },
+  "pbaSummary": {
+    "totalBeneficiaries": 61234,
+    "tableTopDone": 61234,
+    "pendingTableTop": 0,
+    "verifiedOk": 40489,
+    "deletedJobcards": 12597,
+    "newJobcardsForDeleted": 149,
+    "notAvailableJobcards": 8247,
+    "newJobcardsForNotAvailable": 731,
+    "availableWorkCodes": 32262,
+    "mustersGenerated": 2163,
+    "emrIssueRegister": 5505,
+    "blocks": [
+      {
+        "slNo": 1,
+        "blockName": "BOLPUR-SRINIKETAN",
+        "totalBeneficiaries": 1540,
+        "tableTopDone": 1540,
+        "pendingTableTop": 0,
+        "verifiedOk": 1068,
+        "deletedJobcards": 15,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 15,
+        "notAvailableJobcards": 457,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 457,
+        "availableWorkCodes": 696,
+        "mustersGenerated": 157,
+        "emrIssueRegister": 156
+      },
+      {
+        "slNo": 2,
+        "blockName": "DUBRAJPUR",
+        "totalBeneficiaries": 3037,
+        "tableTopDone": 3037,
+        "pendingTableTop": 0,
+        "verifiedOk": 2047,
+        "deletedJobcards": 591,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 591,
+        "notAvailableJobcards": 399,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 399,
+        "availableWorkCodes": 1714,
+        "mustersGenerated": 0,
+        "emrIssueRegister": 0
+      },
+      {
+        "slNo": 3,
+        "blockName": "ILLAMBAZAR",
+        "totalBeneficiaries": 2820,
+        "tableTopDone": 2820,
+        "pendingTableTop": 0,
+        "verifiedOk": 2564,
+        "deletedJobcards": 202,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 202,
+        "notAvailableJobcards": 54,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 54,
+        "availableWorkCodes": 1979,
+        "mustersGenerated": 0,
+        "emrIssueRegister": 109
+      },
+      {
+        "slNo": 4,
+        "blockName": "KHOYRASOL",
+        "totalBeneficiaries": 1696,
+        "tableTopDone": 1696,
+        "pendingTableTop": 0,
+        "verifiedOk": 1159,
+        "deletedJobcards": 272,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 272,
+        "notAvailableJobcards": 265,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 265,
+        "availableWorkCodes": 1119,
+        "mustersGenerated": 351,
+        "emrIssueRegister": 351
+      },
+      {
+        "slNo": 5,
+        "blockName": "LABPUR",
+        "totalBeneficiaries": 2807,
+        "tableTopDone": 2807,
+        "pendingTableTop": 0,
+        "verifiedOk": 2704,
+        "deletedJobcards": 103,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 103,
+        "notAvailableJobcards": 0,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 0,
+        "availableWorkCodes": 1659,
+        "mustersGenerated": 0,
+        "emrIssueRegister": 0
+      },
+      {
+        "slNo": 6,
+        "blockName": "MAYURESWAR-I",
+        "totalBeneficiaries": 3491,
+        "tableTopDone": 3491,
+        "pendingTableTop": 0,
+        "verifiedOk": 2446,
+        "deletedJobcards": 512,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 512,
+        "notAvailableJobcards": 533,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 533,
+        "availableWorkCodes": 2223,
+        "mustersGenerated": 148,
+        "emrIssueRegister": 562
+      },
+      {
+        "slNo": 7,
+        "blockName": "MAYURESWAR-II",
+        "totalBeneficiaries": 3263,
+        "tableTopDone": 3263,
+        "pendingTableTop": 0,
+        "verifiedOk": 1931,
+        "deletedJobcards": 626,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 626,
+        "notAvailableJobcards": 706,
+        "newJobcardsForNotAvailable": 26,
+        "pendingNotAvailable": 680,
+        "availableWorkCodes": 802,
+        "mustersGenerated": 0,
+        "emrIssueRegister": 22
+      },
+      {
+        "slNo": 8,
+        "blockName": "MOHAMMAD BAZAR",
+        "totalBeneficiaries": 2046,
+        "tableTopDone": 2046,
+        "pendingTableTop": 0,
+        "verifiedOk": 1936,
+        "deletedJobcards": 55,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 55,
+        "notAvailableJobcards": 55,
+        "newJobcardsForNotAvailable": 3,
+        "pendingNotAvailable": 52,
+        "availableWorkCodes": 1509,
+        "mustersGenerated": 0,
+        "emrIssueRegister": 41
+      },
+      {
+        "slNo": 9,
+        "blockName": "MURARAI-I",
+        "totalBeneficiaries": 4315,
+        "tableTopDone": 4315,
+        "pendingTableTop": 0,
+        "verifiedOk": 1835,
+        "deletedJobcards": 2098,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 2098,
+        "notAvailableJobcards": 382,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 382,
+        "availableWorkCodes": 1714,
+        "mustersGenerated": 1,
+        "emrIssueRegister": 82
+      },
+      {
+        "slNo": 10,
+        "blockName": "MURARAI-II",
+        "totalBeneficiaries": 7660,
+        "tableTopDone": 7660,
+        "pendingTableTop": 0,
+        "verifiedOk": 3706,
+        "deletedJobcards": 3876,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 3876,
+        "notAvailableJobcards": 78,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 78,
+        "availableWorkCodes": 2909,
+        "mustersGenerated": 100,
+        "emrIssueRegister": 184
+      },
+      {
+        "slNo": 11,
+        "blockName": "NALHATI-I",
+        "totalBeneficiaries": 4113,
+        "tableTopDone": 4113,
+        "pendingTableTop": 0,
+        "verifiedOk": 2362,
+        "deletedJobcards": 372,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 372,
+        "notAvailableJobcards": 1379,
+        "newJobcardsForNotAvailable": 38,
+        "pendingNotAvailable": 1341,
+        "availableWorkCodes": 1906,
+        "mustersGenerated": 0,
+        "emrIssueRegister": 238
+      },
+      {
+        "slNo": 12,
+        "blockName": "NALHATI-II",
+        "totalBeneficiaries": 2984,
+        "tableTopDone": 2984,
+        "pendingTableTop": 0,
+        "verifiedOk": 2316,
+        "deletedJobcards": 587,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 587,
+        "notAvailableJobcards": 81,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 81,
+        "availableWorkCodes": 1567,
+        "mustersGenerated": 0,
+        "emrIssueRegister": 286
+      },
+      {
+        "slNo": 13,
+        "blockName": "NANOOR",
+        "totalBeneficiaries": 3603,
+        "tableTopDone": 3603,
+        "pendingTableTop": 0,
+        "verifiedOk": 2547,
+        "deletedJobcards": 479,
+        "newJobcardsForDeleted": 47,
+        "pendingDeleted": 432,
+        "notAvailableJobcards": 577,
+        "newJobcardsForNotAvailable": 53,
+        "pendingNotAvailable": 524,
+        "availableWorkCodes": 1868,
+        "mustersGenerated": 681,
+        "emrIssueRegister": 837
+      },
+      {
+        "slNo": 14,
+        "blockName": "RAJNAGAR",
+        "totalBeneficiaries": 2175,
+        "tableTopDone": 2175,
+        "pendingTableTop": 0,
+        "verifiedOk": 1733,
+        "deletedJobcards": 317,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 317,
+        "notAvailableJobcards": 168,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 168,
+        "availableWorkCodes": 1483,
+        "mustersGenerated": 273,
+        "emrIssueRegister": 317
+      },
+      {
+        "slNo": 15,
+        "blockName": "RAMPURHAT-I",
+        "totalBeneficiaries": 3394,
+        "tableTopDone": 3394,
+        "pendingTableTop": 0,
+        "verifiedOk": 2579,
+        "deletedJobcards": 534,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 534,
+        "notAvailableJobcards": 337,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 337,
+        "availableWorkCodes": 2112,
+        "mustersGenerated": 115,
+        "emrIssueRegister": 115
+      },
+      {
+        "slNo": 16,
+        "blockName": "RAMPURHAT-II",
+        "totalBeneficiaries": 3461,
+        "tableTopDone": 3461,
+        "pendingTableTop": 0,
+        "verifiedOk": 1835,
+        "deletedJobcards": 503,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 503,
+        "notAvailableJobcards": 1123,
+        "newJobcardsForNotAvailable": 0,
+        "pendingNotAvailable": 1123,
+        "availableWorkCodes": 1750,
+        "mustersGenerated": 0,
+        "emrIssueRegister": 812
+      },
+      {
+        "slNo": 17,
+        "blockName": "SAINTHIA",
+        "totalBeneficiaries": 5260,
+        "tableTopDone": 5260,
+        "pendingTableTop": 0,
+        "verifiedOk": 3089,
+        "deletedJobcards": 1237,
+        "newJobcardsForDeleted": 57,
+        "pendingDeleted": 1180,
+        "notAvailableJobcards": 934,
+        "newJobcardsForNotAvailable": 259,
+        "pendingNotAvailable": 675,
+        "availableWorkCodes": 3312,
+        "mustersGenerated": 243,
+        "emrIssueRegister": 728
+      },
+      {
+        "slNo": 18,
+        "blockName": "SURI-I",
+        "totalBeneficiaries": 2130,
+        "tableTopDone": 2130,
+        "pendingTableTop": 0,
+        "verifiedOk": 1456,
+        "deletedJobcards": 165,
+        "newJobcardsForDeleted": 0,
+        "pendingDeleted": 165,
+        "notAvailableJobcards": 509,
+        "newJobcardsForNotAvailable": 157,
+        "pendingNotAvailable": 352,
+        "availableWorkCodes": 1072,
+        "mustersGenerated": 0,
+        "emrIssueRegister": 74
+      },
+      {
+        "slNo": 19,
+        "blockName": "SURI-II",
+        "totalBeneficiaries": 1439,
+        "tableTopDone": 1439,
+        "pendingTableTop": 0,
+        "verifiedOk": 1176,
+        "deletedJobcards": 53,
+        "newJobcardsForDeleted": 45,
+        "pendingDeleted": 8,
+        "notAvailableJobcards": 210,
+        "newJobcardsForNotAvailable": 195,
+        "pendingNotAvailable": 15,
+        "availableWorkCodes": 868,
+        "mustersGenerated": 94,
+        "emrIssueRegister": 591
+      }
+    ]
+  }
+}
